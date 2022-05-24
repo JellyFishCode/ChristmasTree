@@ -1,0 +1,16 @@
+C:\Users\Sammi\source\repos\ChristmasTree\bin\Debug\net5.0\ChristmasTree.exe
+C:\Users\Sammi\source\repos\ChristmasTree\bin\Debug\net5.0\ChristmasTree.deps.json
+C:\Users\Sammi\source\repos\ChristmasTree\bin\Debug\net5.0\ChristmasTree.runtimeconfig.json
+C:\Users\Sammi\source\repos\ChristmasTree\bin\Debug\net5.0\ChristmasTree.runtimeconfig.dev.json
+C:\Users\Sammi\source\repos\ChristmasTree\bin\Debug\net5.0\ChristmasTree.dll
+C:\Users\Sammi\source\repos\ChristmasTree\bin\Debug\net5.0\ref\ChristmasTree.dll
+C:\Users\Sammi\source\repos\ChristmasTree\bin\Debug\net5.0\ChristmasTree.pdb
+C:\Users\Sammi\source\repos\ChristmasTree\obj\Debug\net5.0\ChristmasTree.csproj.AssemblyReference.cache
+C:\Users\Sammi\source\repos\ChristmasTree\obj\Debug\net5.0\ChristmasTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammi\source\repos\ChristmasTree\obj\Debug\net5.0\ChristmasTree.AssemblyInfoInputs.cache
+C:\Users\Sammi\source\repos\ChristmasTree\obj\Debug\net5.0\ChristmasTree.AssemblyInfo.cs
+C:\Users\Sammi\source\repos\ChristmasTree\obj\Debug\net5.0\ChristmasTree.csproj.CoreCompileInputs.cache
+C:\Users\Sammi\source\repos\ChristmasTree\obj\Debug\net5.0\ChristmasTree.dll
+C:\Users\Sammi\source\repos\ChristmasTree\obj\Debug\net5.0\ref\ChristmasTree.dll
+C:\Users\Sammi\source\repos\ChristmasTree\obj\Debug\net5.0\ChristmasTree.pdb
+C:\Users\Sammi\source\repos\ChristmasTree\obj\Debug\net5.0\ChristmasTree.genruntimeconfig.cache
